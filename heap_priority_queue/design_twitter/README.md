@@ -1,0 +1,21 @@
+# Design Twitter
+
+> **Pattern:** Heap / Priority Queue  
+> [LeetCode problem](https://leetcode.com/problems/design-twitter/)
+
+## Intuition
+
+| Approach | Idea |
+|----------|------|
+| Brute-force | |
+| Better | |
+| Optimal | |
+
+## Complexity
+
+| Approach  | Time | Space |
+|-----------|------|-------|
+| Brute-force |  |  |
+| Better |  |  |
+| Optimal |  |  |
+
