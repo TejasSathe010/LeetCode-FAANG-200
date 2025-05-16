@@ -7,15 +7,15 @@
 
 | Approach | Idea |
 |----------|------|
-| Brute-force | |
+| Brute-force | Use @2 loops and check if any numbers repeats. |
 | Better | |
-| Optimal | |
+| Optimal | Sort the array and then check if the last element is same as the current element (return true) else (return false) |
 
 ## Complexity
 
 | Approach  | Time | Space |
 |-----------|------|-------|
-| Brute-force |  |  |
+| Brute-force | O(N^2) | O(1) |
 | Better |  |  |
-| Optimal |  |  |
+| Optimal | O(NlogN) + O(N) | O(1) |
 

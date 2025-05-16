@@ -17,5 +17,5 @@
 |-----------|------|-------|
 | Brute-force |  |  |
 | Better |  |  |
-| Optimal |  |  |
+| Optimal | O(M*NlogN) | O(M*N) |
 

@@ -17,5 +17,5 @@
 |-----------|------|-------|
 | Brute-force | O(N^2) | O(1) |
 | Better | O(N) | O(N) |
-| Optimal | O(N) | O(1) |
+| Optimal | O(N) + O(N*logN) | O(1) |
 
